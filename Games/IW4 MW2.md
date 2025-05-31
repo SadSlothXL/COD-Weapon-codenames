@@ -11,31 +11,29 @@
 | FAMAS          | famas_mp
 | G18            | glock_mp
 | Intervention   | cheytac_mp
-| L86 LSW        | sa80
+| L86 LSW        | sa80_mp
 | M1014          | m1014_mp
-| M14 EBR/M21EBR | 
-| M16A4          | 
-| M1911 .45      | 
-| M240           | 
-| M64            | 
-| M93 Raffica    | 
-| M9             | 
-| MAI1           | 
-| Mini-Uzi       | 
-| Model 1887     | 
-| MP5K           | 
-| P90            | 
-| PP2000         | 
-| Ranger         | 
-| Riot Shield    | 
-| RPG-7          | 
-| RPD            | 
-| SCAR-H         | 
-| SPAS-12        | 
-| Striker        | 
-| TAR-21         | 
-| TMP            | 
-| UMP45          | 
-| USP .45        | 
-| Vector         | 
-| WA2000         | 
+| M14 EBR/M21EBR | m21_mp
+| M16A4          | m16_mp
+| M240           | m240_mp
+| MG4            | mg4_mp
+| M93 Raffica    | beretta393_mp
+| M9             | beretta_mp
+| M4A1           | m4_mp
+| Mini-Uzi       | uzi_mp
+| Model 1887     | model1887_mp
+| MP5K           | mp5k_mp
+| P90            | p90_mp
+| PP2000         | pp2000_mp
+| Ranger         | ranger_mp
+| Riot Shield    | riotshield_mp
+| RPG-7          | rpg_mp
+| RPD            | rpd_mp
+| SCAR-H         | scar_mp
+| SPAS-12        | spas12_mp
+| Striker        | striker_mp
+| TAR-21         | tavor_mp
+| TMP            | tmp_mp
+| UMP45          | ump45_mp
+| USP .45        | usp_mp
+| Vector         | kriss_mp
