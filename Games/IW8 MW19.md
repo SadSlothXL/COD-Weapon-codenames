@@ -2,7 +2,7 @@
 |------------|----------------|
 | .50 GS          | iw8_pi_decho       
 | .357           | iw8_pi_cpapa       
-| 1911            | iw8_pi_mike2011    
+| 1911            | iw8_pi_mike1911    
 | 725             | iw8_sh_charlie725  
 | AK-47           | iw8_ar_akilo47     
 | AN-94           | iw8_ar_anovember94 
