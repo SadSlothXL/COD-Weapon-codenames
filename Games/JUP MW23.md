@@ -10,7 +10,6 @@
 | DG-58 LSW       | jup_lm_qbravo95lsw |
 | DM56            | jup_dm_slima8      |
 | DTIR 30-06      | jup_br_hcharlie36  |
-| EM1             | jup_ar_emike1      |
 | FJX Horus       | jup_pi_mpapa9      |
 | FR 5.56         | iw9_ar_falima      |
 | Gladiator       | jup_me_pdango      |
