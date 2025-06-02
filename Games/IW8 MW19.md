@@ -1,7 +1,7 @@
 | In-game       | Code Name   |
 |------------|----------------|
 | .50 GS          | iw8_pi_decho       
-| 0.357           | iw8_pi_cpapa       
+| .357           | iw8_pi_cpapa       
 | 1911            | iw8_pi_mike2011    
 | 725             | iw8_sh_charlie725  
 | AK-47           | iw8_ar_akilo47     
