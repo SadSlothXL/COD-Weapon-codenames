@@ -1,3 +1,17 @@
 | In-game       | Code Name   |
 |------------|----------------|
-| ACR | iw5_acr_mp  |
+| ABG-4L              |
+| AJAX                |
+| Atlas Mk. 27        |
+| Cloaking Shield     |
+| Deployable Shield   |
+| ECR Phoenix         |
+| G-LO 7.62mm         |
+| HERA-82             |
+| Lidar Grenade       |
+| Pulse Rifle         |
+| SCAR Mod 2          |
+| Sealant             |
+| Sticky Grenade Launcher |
+| Type 104            |
+| XM108 SEAR          |
