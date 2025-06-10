@@ -49,4 +49,4 @@
 | UMP45         | iw5_ump45_mp
 | USAS 12       | iw5_usas12_mp
 | USP .45       | iw5_usp45_mp
-| XM25          | iw5_xm25_mp
+| XM25          | xm25_mp

@@ -2,6 +2,7 @@
 All Call of Duty Weapon Names
 
 
+
 **Credits:**
 [The Stig](https://github.com/Stiggary), 
 [callofduty fandom](https://callofduty.fandom.com/wiki/Call_of_Duty_Wiki), 
