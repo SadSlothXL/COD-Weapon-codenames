@@ -1,84 +1,84 @@
 | In-game       | Code Name   |
 |------------|----------------|
-| 1911                | t7_pistol_m1911
-| 205 Brecci          | t7_shotgun_semiauto
-| 48 Dredge           | t7_lmg_heavy
-| Ace of Spades       | t7_melee_shovel
-| AK-74u              | t7_smg_ak74u
-| Argus               | t7_shotgun_precision
-| Banshii             | t7_shotgun_energy
-| BlackCell           | t7_launcher_lockonly
-| BRM                 | t7_lmg_light
-| Brass Knuckles      | t7_melee_knuckles
-| Buzz Cut            | t7_melee_improvise
-| Butterfly Knife     | t7_melee_butterfly
-| Bushwhacker         | t7_melee_chainsaw
-| Ballistic Knife     | t7_knife_ballistic
-| Carver              | t7_melee_bowie
-| Combat Knife        | t7_melee_loadout
-| D13 Sector          | t7_special_discgun
-| DBSR-50             | t7_sniper_double
-| DIY 11 Renovator    | t7_smg_nailgun
-| Dingo               | t7_lmg_cqb
-| Drakon              | t7_sniper_fastsemi
-| Dragoon             | t7_sniper_mosin
-| Enforcer            | t7_melee_shockbaton
-| FFAR                | t7_ar_famas
-| Fury's Song         | t7_melee_sword
-| Galil               | t7_ar_galil
-| Gorgon              | t7_lmg_slowfire
-| Haymaker 12         | t7_shotgun_fullauto
-| HG 40               | t7_smg_mp40
-| HLX 4               | t7_smg_rechamber
-| HVK-30              | t7_ar_cqb
-| ICR-1               | t7_ar_accurate
-| Iron Jim            | t7_melee_crowbar
-| KRM-262             | t7_shotgun_pump
-| KN-44               | t7_ar_standard
-| Kuda                | t7_smg_ap9_standard
-| KVK 99m             | t7_ar_an94
-| L-CAR 9             | t7_pistol_fullauto
-| L3FT.E              | t7_melee_prosthetic
-| L4 Siege            | t7_launcher_multi
-| LV8 Basilisk        | t7_ar_pulse
-| Locus               | t7_sniper_fastbolt
-| MR6                 | t7_pistol_standard
-| M14                 | t7_ar_m14
-| M16                 | t7_Ar_m16
-| M8A7                | t7_ar_longburst
-| Malice              | t7_melee_dagger
-| Man-O-War           | t7_ar_damage
-| Marshal 16          | t7_pistol_shotgun
-| MAX-GL              | t7_launcher_ex41
-| MVP                 | t7_melee_bat
-| MX Garand           | t7_ar_garand
-| Nightbreaker        | t7_melee_boneglass
-| Nunchucks           | t7_melee_nunchucks
-| NX ShadowClaw       | t7_special_crossbow
-| Olympia             | t7_shotgun_olympia
-| Path of Sorrows     | t7_melee_katana
-| Peacekeeper MK2     | t7_ar_peacekeeper
-| Pharo               | t7_smg_burst
-| P-06                | t7_sniper_chargeshot
-| PPSh                | t7_smg_ppsh
-| Prizefighters       | t7_melee_boxing
-| R70 Ajax            | t7_lmg_infinite
-| RPK                 | t7_lmg_rpk
-| RSA Interdiction    | t7_sniper_quickscope
-| RK5                 | t7_pistol_burst
-| Rift E9             | t7_pistol_energy
-| Razorback           | t7_smg_longrange
-| Raven's Eye         | t7_melee_crescent
-| Sheiva              | t7_ar_marksman
-| Skull Splitter      | t7_melee_mace
-| Slash N' Burn       | t7_melee_fireaxe
-| SVG-100             | t7_sniper_powerbolt
-| Sten                | t7_smg_sten2
-| VMP                 | t7_smg_versatile
-| Vesper              | t7_smg_fastfire
-| Weevil              | t7_smg_capacity
-| Wrench              | t7_melee_wrench
-| XMC                 | t7_smg_msmc
-| XM-53               | t7_launcher_standard
-| XPR-50              | t7_sniper_xpr50
-| XR-2                | t7_ar_fastburst
+| 1911                | pistol_m1911
+| 205 Brecci          | shotgun_semiauto
+| 48 Dredge           | lmg_heavy
+| Ace of Spades       | melee_shovel
+| AK-74u              | smg_ak74u
+| Argus               | shotgun_precision
+| Banshii             | shotgun_energy
+| BlackCell           | launcher_lockonly
+| BRM                 | lmg_light
+| Brass Knuckles      | melee_knuckles
+| Buzz Cut            | melee_improvise
+| Butterfly Knife     | melee_butterfly
+| Bushwhacker         | melee_chainsaw
+| Ballistic Knife     | knife_ballistic
+| Carver              | melee_bowie
+| Combat Knife        | melee_loadout
+| D13 Sector          | special_discgun
+| DBSR-50             | sniper_double
+| DIY 11 Renovator    | smg_nailgun
+| Dingo               | lmg_cqb
+| Drakon              | sniper_fastsemi
+| Dragoon             | sniper_mosin
+| Enforcer            | melee_shockbaton
+| FFAR                | ar_famas
+| Fury's Song         | melee_sword
+| Galil               | ar_galil
+| Gorgon              | lmg_slowfire
+| Haymaker 12         | shotgun_fullauto
+| HG 40               | smg_mp40
+| HLX 4               | smg_rechamber
+| HVK-30              | ar_cqb
+| ICR-1               | ar_accurate
+| Iron Jim            | melee_crowbar
+| KRM-262             | shotgun_pump
+| KN-44               | ar_standard
+| Kuda                | smg_standard
+| KVK 99m             | ar_an94
+| L-CAR 9             | pistol_fullauto
+| L3FT.E              | melee_prosthetic
+| L4 Siege            | launcher_multi
+| LV8 Basilisk        | ar_pulse
+| Locus               | sniper_fastbolt
+| MR6                 | pistol_standard
+| M14                 | ar_m14
+| M16                 | ar_m16
+| M8A7                | ar_longburst
+| Malice              | melee_dagger
+| Man-O-War           | ar_damage
+| Marshal 16          | pistol_shotgun
+| MAX-GL              | launcher_ex41
+| MVP                 | melee_bat
+| MX Garand           | ar_garand
+| Nightbreaker        | melee_boneglass
+| Nunchucks           | melee_nunchucks
+| NX ShadowClaw       | special_crossbow
+| Olympia             | shotgun_olympia
+| Path of Sorrows     | melee_katana
+| Peacekeeper MK2     | ar_peacekeeper
+| Pharo               | smg_burst
+| P-06                | sniper_chargeshot
+| PPSh                | smg_ppsh
+| Prizefighters       | melee_boxing
+| R70 Ajax            | lmg_infinite
+| RPK                 | lmg_rpk
+| RSA Interdiction    | sniper_quickscope
+| RK5                 | pistol_burst
+| Rift E9             | pistol_energy
+| Razorback           | smg_longrange
+| Raven's Eye         | melee_crescent
+| Sheiva              | ar_marksman
+| Skull Splitter      | melee_mace
+| Slash N' Burn       | melee_fireaxe
+| SVG-100             | sniper_powerbolt
+| Sten                | smg_sten2
+| VMP                 | smg_versatile
+| Vesper              | smg_fastfire
+| Weevil              | smg_capacity
+| Wrench              | melee_wrench
+| XMC                 | smg_msmc
+| XM-53               | launcher_standard
+| XPR-50              | sniper_xpr50
+| XR-2                | ar_fastburst
