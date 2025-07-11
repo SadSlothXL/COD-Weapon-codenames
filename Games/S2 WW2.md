@@ -25,7 +25,6 @@
 | Erma EMP              | erma_mp
 | FG 42                 | fg42_mp
 | Fire Axe              | axe_mp
-| Fliegerfaust          | 
 | GBD-79                | grofuss_mp
 | Gewehr 43             | g43_mp
 | GPMG                  | breda30_mp
