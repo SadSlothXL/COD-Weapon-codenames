@@ -1,6 +1,6 @@
 | In-game       | Code Name   |
 |------------|----------------|
-| 1911                  | s4_pi_me_mike1911_mp 
+| 1911                  | s4_pi_mike1911_mp 
 | 3-Line Rifle          | s4_sn_moscar32_mp
 | Armaguerra 43         | s4_sm_aromeo43_mp
 | AS44                  | s4_ar_asierra44_mp
