@@ -14,5 +14,5 @@
 | MXR-17            | sat_ar_eagle      |
 | Peacekeeper Mk1   | sat_ar_condor     |
 | Razor 9mm         | sat_sm_komodo     |
-| VS Recon          | sat_sn_baltic     |
-| XR-3 Ion          | sat_sn_drake      |
+| VS Recon          | sat_sn_drake      |
+| XR-3 Ion          | sat_sn_baltic     |
