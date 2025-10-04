@@ -5,7 +5,7 @@
 | Dravec 45         | sat_sm_zebra      |
 | Echo 12           | sat_sh_husky      |
 | Flatline Mk.II    | sat_me_shockbaton |
-| Graz 45k          | sat_sm_orca       |
+| Ryden 45k         | sat_sm_orca       |
 | Jager 45          | sat_pi_timir      |
 | M10 Breacher      | sat_sh_corso      |
 | M15 Mod 0         | sat_ar_hawk       |
