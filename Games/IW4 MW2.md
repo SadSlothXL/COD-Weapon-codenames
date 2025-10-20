@@ -1,3 +1,5 @@
+[Weapon Showcase](https://youtu.be/3ktvw0XFzfQ?t=11)
+
 | In-game       | Code Name   |
 |------------|----------------|
 | .44 Magnum          | coltanaconda_mp
