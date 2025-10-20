@@ -1,3 +1,5 @@
+[Weapon Showcase](https://www.youtube.com/watch?v=0QHdlOzhs4U&t)   
+
 | In-game            | Code Name        |
 |--------------------|------------------|
 | .44 Magnum         | h1_janpst_mp     |
