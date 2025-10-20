@@ -1,3 +1,5 @@
+[Weapon Showcase](https://youtu.be/-PRTTsxhbMs?si=TnmUxIhmagSXC5QD)
+
 | In-game       | Code Name   |
 |------------|----------------|
 | AK-47        | ak47_mp
