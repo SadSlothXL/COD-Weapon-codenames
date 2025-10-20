@@ -1,4 +1,6 @@
-| In-game       | Code Name   |
+[Weapon Showcase](https://www.youtube.com/watch?v=nWL7DWYrGXw)
+
+|In-game       | Code Name   |
 |------------|----------------|
 | .44 Magnum          | coltanaconda
 | AA-12               | aa12
