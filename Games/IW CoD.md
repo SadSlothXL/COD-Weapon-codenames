@@ -1,3 +1,5 @@
+[Weapon Showcase](https://youtu.be/sK4UBZtE6o0?si=lCjtS1dODaBLYUnB)
+
 | In-game       | Code Name   |
 |------------|----------------|
 | BAR                     | bar_mp
