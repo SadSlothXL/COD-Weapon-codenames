@@ -1,3 +1,5 @@
+[Weapon Showcase](https://youtu.be/a21gaGKcnGw?si=Ck5K1STvtrJCq5Gf)
+
 | In-game       | Code Name   |
 |------------|----------------|
 | .410 Ironhide     | t9_shotgun_leveraction |
