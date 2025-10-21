@@ -1,3 +1,5 @@
+[Weapon Showcase](https://youtu.be/lZ9qWLnCpC4?si=fcMn1Fx3ayTviP4T)
+
 | In-game       | Code Name   |
 |------------|----------------|
 | A.R.C. M1         | sat_la_polis      |
