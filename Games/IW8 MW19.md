@@ -1,3 +1,5 @@
+[Weapon Showcase](https://youtu.be/DUXU_GB2F5U?si=oUQ0NPsnz60oTUhS)
+
 | In-game       | Code Name   |
 |------------|----------------|
 | .50 GS          | iw8_pi_decho       
