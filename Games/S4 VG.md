@@ -1,3 +1,5 @@
+[Weapon Showcase](https://youtu.be/PV1GZBDBSac?si=1LgypBkAVs0chnCV)
+
 | In-game       | Code Name   |
 |------------|----------------|
 | 1911                  | s4_pi_mike1911 
