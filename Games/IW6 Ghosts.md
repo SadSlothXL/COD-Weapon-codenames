@@ -1,3 +1,5 @@
+[Weapon Showcase](https://youtu.be/LuP7jPLM1Ck?si=8-Aq-QwJicHlgk_X)
+
 | In-game       | Code Name   |
 |------------|----------------|
 | .44 Magnum              | iw6_magnum_mp
