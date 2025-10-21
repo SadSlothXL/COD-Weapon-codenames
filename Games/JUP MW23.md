@@ -1,3 +1,5 @@
+[Weapon Showcase](https://youtu.be/u9alaCOsMnY?si=sdDYOMz4ToxV9SmQ)
+
 | In-game       | Code Name   |
 |------------|----------------|
 | AMR9            | jup_sm_coscar635   |
