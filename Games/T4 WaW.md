@@ -1,3 +1,5 @@
+[Weapon Showcase](https://youtu.be/BhK77J7fn08?si=CzbEtotM1uom-ql6)
+
 | In-game       | Code Name   |
 |------------|----------------|
 | .357 Magnum            | 357magnum_mp
