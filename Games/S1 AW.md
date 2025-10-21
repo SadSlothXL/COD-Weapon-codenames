@@ -1,3 +1,5 @@
+[Weapon Showcase](https://youtu.be/TP6Dfe_q4CU?si=1qvp0yxcszBBUlPc)
+
 | In-game       | Code Name   |
 |------------|----------------|
 | 1911 | iw5_dlcgun13_mp
