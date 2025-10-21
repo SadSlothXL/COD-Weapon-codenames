@@ -1,3 +1,5 @@
+[Weapon Showcase](https://youtu.be/0k8lH5wR1fY?si=ZrkIYPQrE2A9PkdD)
+
 | In-game       | Code Name   |
 |------------|----------------|
 | 1911                  | m1911_mp
