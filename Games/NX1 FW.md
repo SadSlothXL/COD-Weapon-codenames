@@ -1,3 +1,5 @@
+[Weapon Showcase](https://youtu.be/6GO8QhaWXoY?si=upxtNWGmMkG5jxIt)
+
 | In-game       | Code Name   |
 |------------|----------------|
 | ABG-4L              |
