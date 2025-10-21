@@ -1,3 +1,5 @@
+[Weapon Showcase](https://youtu.be/vSQf1l4AIz4?si=bsI2Ot8Onbgdo5Xq)
+
 | In-game       | Code Name   |
 |------------|----------------|
 | Auger            | iw7_minilmg_mp    |
