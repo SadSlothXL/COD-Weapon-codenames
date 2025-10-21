@@ -1,3 +1,5 @@
+[Weapon Showcase](https://youtu.be/qEkVNZ5shzM?si=mYB589olmU_vqV1E)
+
 | In-game       | Code Name   |
 |------------|----------------|
 | AN-94                 | an94_mp
