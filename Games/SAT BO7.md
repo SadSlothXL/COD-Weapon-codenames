@@ -1,4 +1,4 @@
-[Weapon Showcase](https://youtu.be/lZ9qWLnCpC4?si=fcMn1Fx3ayTviP4T)
+[Weapon Showcase](https://www.youtube.com/watch?v=JzDNs6XH7T8)
 
 | In-game       | Code Name   |
 |------------|----------------|
