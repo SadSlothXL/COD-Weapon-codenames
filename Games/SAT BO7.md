@@ -2,7 +2,7 @@
 
 [Weapon Showcase S1](https://www.youtube.com/watch?v=vRkyj0Deezo) 
 
-*(s1) Updated on 05/12/25 (d/m/y)*
+*(s1r) Updated on 12/01/26 (d/m/y)*
 | In-game       | Code Name   |
 |------------|----------------|
 | A.R.C. M1       | sat_la_polis       |
@@ -15,6 +15,7 @@
 | Dravec 45       | sat_sm_zebra       |
 | DS20 Mirage     | sat_ar_vulture     |
 | Echo 12         | sat_sh_husky       |
+| Hawker HX       | sat_sn_aden        |
 | Flatline Mk.II  | sat_me_shockbaton  |
 | Jager 45        | sat_pi_timir       |
 | Knife           | sat_me_knife       |
@@ -33,6 +34,7 @@
 | Ryden 45k       | sat_sm_orca        |
 | Shadow SK       | sat_sn_caspian     |
 | Sokol 545       | sat_lm_typhon      |
+| Sturmwolf 45    | sat_sm_bengal      |
 | Velox 5.7       | sat_pi_orion       |
 | VS Recon        | sat_sn_drake       |
 | Warden 308      | sat_dm_oman        |
