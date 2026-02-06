@@ -2,6 +2,8 @@
 
 [Weapon Showcase S1](https://www.youtube.com/watch?v=vRkyj0Deezo) 
 
+[Weapon Showcase S2](https://www.youtube.com/watch?v=OIpN0YJdcjw)
+
 *(s2) Updated on 05/02/26 (d/m/y)*
 | In-game       | Code Name   |
 |------------|----------------|
