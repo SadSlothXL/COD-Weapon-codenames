@@ -36,6 +36,7 @@
 | Shadow SK       | sat_sn_caspian     |
 | Sokol 545       | sat_lm_typhon      |
 | Sturmwolf 45    | sat_sm_bengal      |
+| SG-12           | sat_sh_shepherd    |
 | Velox 5.7       | sat_pi_orion       |
 | VS Recon        | sat_sn_drake       |
 | Warden 308      | sat_dm_oman        |
