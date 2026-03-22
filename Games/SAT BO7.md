@@ -1,5 +1,5 @@
 [Weapon Showcase](https://www.youtube.com/playlist?list=PLZrYF2ZfBl5XFst5k9fV4Hoz4BXCOyCcX)
-*(s2) Updated on 05/02/26 (d/m/y)*
+*(s2r) Updated on 22/03/26 (d/m/y)*
 | In-game       | Code Name   |
 |------------|----------------|
 | A.R.C. M1       | sat_la_polis       |
@@ -37,8 +37,10 @@
 | Sokol 545       | sat_lm_typhon      |
 | Sturmwolf 45    | sat_sm_bengal      |
 | SG-12           | sat_sh_shepherd    |
+| Swordfish A1    | sat_dm_solomon     |
 | Velox 5.7       | sat_pi_orion       |
 | VS Recon        | sat_sn_drake       |
+| Voyak KT-3      | sat_ar_heron       |
 | Warden 308      | sat_dm_oman        |
 | X9 Maverick     | sat_ar_falcon      |
 | XM325           | sat_lm_zeus        |
