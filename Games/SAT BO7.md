@@ -1,7 +1,8 @@
 [Weapon Showcase](https://www.youtube.com/playlist?list=PLZrYF2ZfBl5XFst5k9fV4Hoz4BXCOyCcX)
-*(s2r) Updated on 22/03/26 (d/m/y)*
+*(s3) Updated on 03/04/26 (d/m/y)*
 | In-game       | Code Name   |
 |------------|----------------|
+| 1911            | sat_pi_alcor       |
 | A.R.C. M1       | sat_la_polis       |
 | AAROW 109       | sat_la_fang        |
 | AK-27           | sat_ar_kite        |
@@ -14,6 +15,7 @@
 | Echo 12         | sat_sh_husky       |
 | EGRT-17         | sat_ar_egret       |
 | Flatline Mk.II  | sat_me_shockbaton  |
+| MK35 ISR        | sat_ar_finch       |
 | GDL Havoc       | sat_sl_nembus      |
 | Hawker HX       | sat_sn_aden        |
 | H311-SAW        | sat_me_saiph       |
@@ -38,9 +40,11 @@
 | Sturmwolf 45    | sat_sm_bengal      |
 | SG-12           | sat_sh_shepherd    |
 | Swordfish A1    | sat_dm_solomon     |
+| Strider 300     | sat_sn_coral       |
 | Velox 5.7       | sat_pi_orion       |
 | VS Recon        | sat_sn_drake       |
 | Voyak KT-3      | sat_ar_heron       |
+| VST             | sat_sm_bear        |
 | Warden 308      | sat_dm_oman        |
 | X9 Maverick     | sat_ar_falcon      |
 | XM325           | sat_lm_zeus        |
