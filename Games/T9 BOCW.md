@@ -2,67 +2,67 @@
 
 | In-game       | Code Name   |
 |------------|----------------|
-| .410 Ironhide     | t9_shotgun_leveraction |
-| 1911              | t9_pistol_semiauto     |
-| AUG               | t9_tr_powerburst       |
-| AK-47             | t9_ar_damage           |
-| AK-74u            | t9_smg_heavy           |
-| AMP63             | t9_pistol_fullauto     |
-| Ballistic Knife   | t9_special_ballisticknife |
-| Baseball Bat      | t9_melee_baseball      |
-| Battle Axe        | t9_melee_battleaxe     |
-| Bullfrog          | t9_smg_capacity        |
-| C58               | t9_ar_slowfire         |
-| CARV.2            | t9_tr_fastburst        |
-| Cigma 2           | t9_launcher_standard   |
-| Cane              | t9_melee_cane          |
-| DMR 14            | t9_tr_precisionsemi    |
-| Diamatti          | t9_pistol_burst        |
-| E-Tool            | t9_melee_etool         |
-| EM2               | t9_ar_british          |
-| FFAR 1            | t9_ar_fastfire         |
-| FARA 83           | t9_ar_slowhandling     |
-| Gallo SA12        | t9_shotgun_semiauto    |
-| Grav              | t9_ar_season6          |
-| Groza             | t9_ar_fasthandling     |
-| Hauer 77          | t9_shotgun_pump        |
-| Hammer & Sickle   | t9_melee_coldwar       |
-| KSP 45            | t9_smg_burst           |
-| Krig 6            | t9_ar_accurate         |
-| LC10              | t9_smg_accurate        |
-| LAPA              | t9_smg_season6         |
-| LW3 - Tundra      | t9_sniper_standard     |
-| M16               | t9_tr_longburst        |
-| M60               | t9_lmg_slowfire        |
-| M79               | t9_special_grenadelauncher |
-| M82               | t9_sniper_powersemi    |
-| MAC-10            | t9_smg_fastfire        |
-| MG 82             | t9_lmg_fastfire        |
-| MP5               | t9_smg_standard        |
-| Mace              | t9_melee_mace          |
-| Machete           | t9_melee_machete       |
-| Magnum            | t9_pistol_revolver     |
-| Marshal           | t9_pistol_shotgun      |
-| Milano 821        | t9_smg_handling        |
-| Nail Gun          | t9_special_nailgun     |
-| OTs 9             | t9_smg_cqb             |
-| Pelington 703     | t9_sniper_quickscope   |
-| PPSh-41           | t9_smg_spray           |
-| QBZ 83            | t9_ar_mobility         |
-| RPG-7             | t9_launcher_freefire   |
-| RPD               | t9_lmg_light           |
-| R1 Shadowhunter   | t9_special_crossbow    |
-| Sai               | t9_melee_sai           |
-| Stoner 63         | t9_lmg_accurate        |
-| Streetsweeper     | t9_shotgun_fullauto    |
-| Scythe            | t9_melee_              |
-| Sledgehammer      | t9_melee_sledgehammer  |
-| Swiss K31         | t9_sniper_accurate     |
-| TEC-9             | t9_smg_semiauto        |
-| Type 63           | t9_tr_damagesemi       |
-| UGR               | t9_smg_flechette       |
-| Vargo 52          | t9_ar_soviet           |
-| Wakizashi         | t9_melee_wakizashi     |
-| XM4               | t9_ar_standard         |
-| ZRG 20mm          | t9_sniper_cannon       |
-| Knife             | t9_knife_loadout       |
+| .410 Ironhide     | shotgun_leveraction
+| 1911              | pistol_semiauto
+| AUG               | tr_powerburst
+| AK-47             | ar_damage
+| AK-74u            | smg_heavy
+| AMP63             | pistol_fullauto
+| Ballistic Knife   | ballistic
+| Baseball Bat      | melee_bat/baseball_bat
+| Battle Axe        | axe
+| Bullfrog          | smg_capacity
+| C58               | ar_slowfire
+| CARV.2            | tr_fastburst
+| Cigma 2           | launcher_standard
+| Cane              | cane
+| DMR 14            | tr_precisionsemi
+| Diamatti          | pistol_burst
+| E-Tool            | melee_shovel/etool
+| EM2               | ar_british
+| FFAR 1            | ar_fastfire
+| FARA 83           | ar_slowhandling
+| Gallo SA12        | shotgun_semiauto
+| Grav              | ar_season6
+| Groza             | ar_fasthandling
+| Hauer 77          | shotgun_pump
+| Hammer & Sickle   | sickle
+| KSP 45            | smg_burst
+| Krig 6            | krig6/ar_accurate
+| LC10              | smg_accurate
+| LAPA              | lapa/smg_season6
+| LW3 - Tundra      | sniper_standard
+| M16               | tr_longburst
+| M60               | lmg_slowfire
+| M79               | grenade_launcher
+| M82               | sniper_powersemi
+| MAC-10            | smg_fastfire
+| MG 82             | lmg_fastfire
+| MP5               | smg_standard
+| Mace              | mace
+| Machete           | machete
+| Magnum            | pistol_revolver
+| Marshal           | pistol_shotgun
+| Milano 821        | smg_handling
+| Nail Gun          | nailgun
+| OTs 9             | smg_cqb
+| Pelington 703     | sniper_quickscope
+| PPSh-41           | smg_spray
+| QBZ 83            | ar_mobility
+| RPG-7             | launcher_freefire
+| RPD               | lmg_light
+| R1 Shadowhunter   | crossbow
+| Sai               | sai
+| Stoner 63         | lmg_accurate
+| Streetsweeper     | shotgun_fullauto
+| Scythe            | scythe
+| Sledgehammer      | sledgehammer
+| Swiss K31         | sniper_accurate
+| TEC-9             | smg_semiauto
+| Type 63           | tr_damagesemi
+| UGR               | smg_flechette
+| Vargo 52          | ar_soviet
+| Wakizashi         | wakizashi
+| XM4               | ar_mercenary/ar_standard
+| ZRG 20mm          | sniper_cannon
+| Knife             | knife_combat/combat_knife
