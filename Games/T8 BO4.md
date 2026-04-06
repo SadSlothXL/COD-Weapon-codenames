@@ -39,7 +39,7 @@
 | Rampage             | fullauto/full_auto
 | Rampart 17          | ar_heavy/ar_damage
 | Reaver C86          | crossbow
-| Rising Tide         | 
+| Rising Tide         | pirate_cutlass
 | RK 7 Garrison       | pistol_burst
 | SDM                 | power_semi
 | SG12                | shotgun_semi
