@@ -1,5 +1,5 @@
 [Weapon Showcase](https://www.youtube.com/playlist?list=PLZrYF2ZfBl5XFst5k9fV4Hoz4BXCOyCcX)
-*(s3) Updated on 03/04/26 (d/m/y)*
+*(s3) Updated on 29/05/26 (d/m/y)*
 | In-game       | Code Name   |
 |------------|----------------|
 | 1911            | sat_pi_alcor       |
@@ -15,13 +15,13 @@
 | Echo 12         | sat_sh_husky       |
 | EGRT-17         | sat_ar_egret       |
 | Flatline Mk.II  | sat_me_shockbaton  |
-| MK35 ISR        | sat_ar_finch       |
 | GDL Havoc       | sat_sl_nembus      |
 | Hawker HX       | sat_sn_aden        |
 | H311-SAW        | sat_me_saiph       |
 | Jager 45        | sat_pi_timir       |
 | Knife           | sat_me_knife       |
 | Kogot-7         | sat_sm_hyena       | 
+| Katana          | sat_me_nashira     |
 | M8A1            | sat_dm_scotia      |
 | M10 Breacher    | sat_sh_corso       |
 | M15 Mod 0       | sat_ar_hawk        |
@@ -30,6 +30,8 @@
 | MPC-25          | sat_sm_cobra       |
 | MXR-17          | sat_ar_eagle       |
 | Maddox RFB      | sat_ar_macaw       |
+| MK35 ISR        | sat_ar_finch       |
+| NX Ravager      | sat_sl_crossbow    |
 | Peacekeeper Mk1 | sat_ar_condor      |
 | Razor 9mm       | sat_sm_komodo      |
 | RK-9            | sat_sm_otter       |
@@ -41,6 +43,7 @@
 | SG-12           | sat_sh_shepherd    |
 | Swordfish A1    | sat_dm_solomon     |
 | Strider 300     | sat_sn_coral       |
+| Siren           | sat_sl_siren       |
 | Velox 5.7       | sat_pi_orion       |
 | VS Recon        | sat_sn_drake       |
 | Voyak KT-3      | sat_ar_heron       |
