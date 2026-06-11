@@ -7,7 +7,7 @@
 | 9mm Daemon      | iw9_pi_mike2011    |
 | BAS-P           | iw9_sm_mpapax      |
 | Bryson 800      | iw9_sh_mbravo      |
-| Bryson 890      | iw9_sh_mkvictor    |
+| Bryson 890      | iw9_sh_mviktor     |
 | Carrack .300    | iw9_sn_walpha      |
 | Chimera         | iw9_ar_mcbravo     |
 | Combat Knife    | iw9_me_knife       |
