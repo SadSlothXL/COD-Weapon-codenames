@@ -1,5 +1,5 @@
 [Weapon Showcase](https://www.youtube.com/playlist?list=PLZrYF2ZfBl5XFst5k9fV4Hoz4BXCOyCcX)
-*(s4) Updated on 12/06/26 (d/m/y)*
+*(s4r) Updated on 26/06/26 (d/m/y)*
 | In-game       | Code Name   |
 |------------|----------------|
 | 1911            | sat_pi_alcor       |
@@ -7,6 +7,7 @@
 | AAROW 109       | sat_la_fang        |
 | AK-27           | sat_ar_kite        |
 | Akita           | sat_sh_akita       |
+| AN-94           | sat_ar_albatross   |
 | Ballistic Knife | sat_me_ballisticknife |
 | Carbon 57       | sat_sm_puma        |
 | CBRS-3          | sat_sm_marmot      |
@@ -15,6 +16,7 @@
 | DS20 Mirage     | sat_ar_vulture     |
 | Echo 12         | sat_sh_husky       |
 | EGRT-17         | sat_ar_egret       |
+| Executioner's Duet | sat_me_maru     |
 | Flatline Mk.II  | sat_me_shockbaton  |
 | GDL Havoc       | sat_sl_nembus      |
 | Grimhawk        | sat_sl_atria       |
