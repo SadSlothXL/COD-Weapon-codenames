@@ -21,7 +21,7 @@
 | FG42            | sat_ar_wren
 | GDL Havoc       | sat_sl_nembus      
 | Grimhawk        | sat_sl_atria       
-| Gremlin         | sat_ar_wren        
+| Gremlin         | sat_sm_serval        
 | H311-SAW        | sat_me_saiph       
 | Hawker HX       | sat_sn_aden        
 | Jager 45        | sat_pi_timir       
