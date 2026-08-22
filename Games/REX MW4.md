@@ -1,4 +1,4 @@
-[Weapon Showcase]()
+[Weapon Showcase](https://www.youtube.com/playlist?list=PLSB-ftqotdLU)
 *(beta) Updated on 20/07/26 (d/m/y)*
 | In-game       | Code Name   |
 |---------------|-------------|
