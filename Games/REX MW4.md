@@ -15,7 +15,7 @@
 | Patriot XMR   | br_uxray
 |               | br_galima
 | Vel 46        | sm_mpapa7
-| WZ.55 Striga  | sm_pmike63
+| Wz.55 Striga  | sm_pmike63
 | PPSh-41       | sm_psierra41
 | ISO Nightshade| sm_spier9
 |               | sm_victor
