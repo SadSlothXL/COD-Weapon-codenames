@@ -1,5 +1,5 @@
 [Weapon Showcase](https://www.youtube.com/playlist?list=PLSB-ftqotdLU)
-*(beta) Updated on 20/07/26 (d/m/y)*
+*(beta) Updated on 25/08/26 (d/m/y)*
 | In-game       | Code Name   |
 |---------------|-------------|
 | Kastov 762    | ar_akilo
