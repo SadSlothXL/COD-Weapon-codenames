@@ -1,57 +1,36 @@
 [Weapon Showcase](https://www.youtube.com/playlist?list=PLSB-ftqotdLU)
-*(beta) Updated on 25/08/26 (d/m/y)*
+*(beta) Updated on 27/08/26 (d/m/y)*
 | In-game       | Code Name   |
 |---------------|-------------|
 | Kastov 762    | ar_akilo
 | Han 86        | ar_kilo2
 | Axion         | ar_kilo437
 | M4            | ar_mike4
-|               | ar_salpha21
 | Hyeon Burst   | ar_xar1
-|               | ar_blank
 | Oden          | br_asierra12
-|               | br_boston
-| Cronen Squall | br_ngsierra
 | Patriot XMR   | br_uxray
-|               | br_galima
 | Vel 46        | sm_mpapa7
 | Wz.55 Striga  | sm_pmike63
 | PPSh-41       | sm_psierra41
 | ISO Nightshade| sm_spier9
-|               | sm_victor
 | X-58 Nyx      | sm_xsm1
-|               | sh_1887
 | Rezi 12       | sh_bmike3
-| Warlord       | sh_xsh1
-|               | lm_kilo421
-| APOC 338      | lm_recho
 | FiNN LMG      | lm_sierrax
-|               | lm_slima
 | Type 73       | lm_tango73
 | Handheld Railgun | lm_railgun
-|               | dm_crossbow
+| Minigun       | lm_minigun
 | Oris 8.6      | dm_findia
 | MAR-9         | dm_golf28
 | Mosin-Nagant  | dm_moscar
 | Signal 50     | sn_limax
-| Astaroth .57  | sn_sierra100
 | KG-7 Vulcan   | sn_svictor98
 | .50 GS        | pi_decho
-|               | pi_golf17
 | Krait P68     | pi_hotel45
 | Sang 9mm      | pi_kilo5
-|               | pi_papa220
-| Mojave .357   | pi_swhiskey
-| Radio         | pi_radio
-| JOKR          | la_juliet
-|               | la_kgolf
-|               | la_mike32
-| RPG-7         | la_rpapa7
+| JOKR          | la_tow
 | RPG-8         | la_rpapa8
-| PILA          | la_golf94
-|               | me_combataxe
-|               | me_blowtorch
-|               | me_defibrilator
-| Combat Knife  | me_diveknife
-|               | me_riotshield
-|               | me_tacknifea
+| PILA          | la_gromeo
+| Defibrillator | me_defibrilator
+| Riotshield    | me_riotshield
+| Knife         | me_tacknifea
+| Fists         | me_fists
