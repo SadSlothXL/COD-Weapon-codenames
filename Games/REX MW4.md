@@ -27,7 +27,7 @@
 | .50 GS        | pi_decho
 | Krait P68     | pi_hotel45
 | Sang 9mm      | pi_kilo5
-| JOKR          | la_tow
+| JOKR          | la_juliet
 | RPG-8         | la_rpapa8
 | PILA          | la_gromeo
 | Defibrillator | me_defibrilator
