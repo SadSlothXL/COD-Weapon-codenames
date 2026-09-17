@@ -1,5 +1,5 @@
 [Weapon Showcase](https://www.youtube.com/playlist?list=PLZrYF2ZfBl5XFst5k9fV4Hoz4BXCOyCcX)
-*(s5) Updated on 23/07/26 (d/m/y)*
+*(s6) Updated on 17/09/26 (d/m/y)*
 | In-game       | Code Name   |
 |------------|----------------|
 | 1911            | sat_pi_alcor       
@@ -8,6 +8,7 @@
 | AK-27           | sat_ar_kite        
 | Akita           | sat_sh_akita       
 | AN-94           | sat_ar_albatross   
+| Arcblade        | sat_me_wasat
 | Ballistic Knife | sat_me_ballisticknife 
 | Carbon 57       | sat_sm_puma        
 | CBRS-3          | sat_sm_marmot      
@@ -19,6 +20,7 @@
 | Executioner's Duet | sat_me_maru     
 | Flatline Mk.II  | sat_me_shockbaton 
 | FG42            | sat_ar_wren
+| FAL OSW         | sat_ar_emu
 | GDL Havoc       | sat_sl_nembus      
 | Grimhawk        | sat_sl_atria       
 | Gremlin         | sat_sm_serval        
@@ -43,7 +45,8 @@
 | Razor 9mm       | sat_sm_komodo      
 | REV-46          | sat_sm_gecko       
 | RK-9            | sat_sm_otter       
-| Ryden 45k       | sat_sm_orca        
+| Ryden 45k       | sat_sm_orca
+| Roc 20mm        | sat_sl_carina
 | SG-12           | sat_sh_shepherd    
 | Shadow SK       | sat_sn_caspian     
 | Siren           | sat_sl_siren       
@@ -55,7 +58,8 @@
 | Voyak KT-3      | sat_ar_heron       
 | VS Recon        | sat_sn_drake       
 | VST             | sat_sm_bear        
-| VX Compact      | sat_ar_kiwi        
+| VX Compact      | sat_ar_kiwi
+| VMP             | sat_sm_civet
 | Warden 308      | sat_dm_oman        
 | X9 Maverick     | sat_ar_falcon      
 | XM325           | sat_lm_zeus        
