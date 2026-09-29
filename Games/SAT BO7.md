@@ -20,7 +20,7 @@
 | Executioner's Duet | sat_me_maru     
 | Flatline Mk.II  | sat_me_shockbaton 
 | FG42            | sat_ar_wren
-| FAL OSW         | sat_ar_emu
+| TR51 Para       | sat_ar_emu
 | GDL Havoc       | sat_sl_nembus      
 | Grimhawk        | sat_sl_atria       
 | Gremlin         | sat_sm_serval        
