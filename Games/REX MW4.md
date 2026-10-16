@@ -16,7 +16,7 @@
 | ISO Nightshade| sm_spier9
 | X-58 Nyx      | sm_xsm1
 | Rezi 12       | sh_bmike3
-| WarLord       | sh_xsh1
+| Warlord       | sh_xsh1
 | FiNN LMG      | lm_sierrax
 | Type 73       | lm_tango73
 | APOC-338      | lm_recho
@@ -36,6 +36,6 @@
 | RPG-8         | la_rpapa8
 | PILA          | la_gromeo
 | PM-40 Anvil   | la_golf94
-| Riotshield    | me_riotshield
-| Knife         | me_knife_tac
+| Riot Shield   | me_riotshield
+| FSS Carbon Edge 1095 | me_knife_tac
 | Fists         | me_fists
